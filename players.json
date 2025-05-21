@@ -1,0 +1,94 @@
+{
+  "result": [
+    {
+      "no": "1",
+      "name": "Marc-André ter Stegen",
+      "birth_date": "1992-04-30",
+      "Position": "Goalkeeper",
+      "International": "Germany",
+      "Team": "FC Barcelona",
+      "Poster": "https://img.a.transfermarkt.technology/portrait/header/74857-1674465246.jpg?lm=1"
+    },
+    {
+      "no": "2",
+      "name": "Pau Cubarsí",
+      "birth_date": "2007-03-22",
+      "Position": "Defender",
+      "International": "Spain",
+      "Team": "FC Barcelona",
+      "Poster": "https://img.a.transfermarkt.technology/portrait/header/962110-1712779232.jpg?lm=1"
+    },
+    {
+      "no": "3",
+      "name": "Alejandro Balde",
+      "birth_date": "2003-10-18",
+      "Position": "Defender",
+      "International": "Spain",
+      "Team": "FC Barcelona",
+      "Poster": "https://img.a.transfermarkt.technology/portrait/header/636688-1662836200.jpg?lm=1"
+    },
+    {
+      "no": "4",
+      "name": "Ronald Araújo",
+      "birth_date": "1999-03-07",
+      "Position": "Defender",
+      "International": "Uruguay",
+      "Team": "FC Barcelona",
+      "Poster": "https://img.a.transfermarkt.technology/portrait/header/480267-1736431980.jpg?lm=1"
+    },
+    {
+      "no": "5",
+      "name": "Jules Koundé",
+      "birth_date": "1998-11-12",
+      "Position": "Defender",
+      "International": "France",
+      "Team": "FC Barcelona",
+      "Poster": "https://img.a.transfermarkt.technology/portrait/header/411975-1702502639.jpg?lm=1"
+    },
+    {
+      "no": "6",
+      "name": "Pedri",
+      "birth_date": "2002-11-25",
+      "Position": "Midfielder",
+      "International": "Spain",
+      "Team": "FC Barcelona",
+      "Poster": "https://img.a.transfermarkt.technology/portrait/header/683840-1744278342.jpg?lm=1"
+    },
+    {
+      "no": "7",
+      "name": "Frenkie de Jong",
+      "birth_date": "1997-05-12",
+      "Position": "Midfielder",
+      "International": "Netherlands",
+      "Team": "FC Barcelona",
+      "Poster": "https://img.a.transfermarkt.technology/portrait/header/326330-1746041680.jpg?lm=1"
+    },
+    {
+      "no": "8",
+      "name": "Gavi",
+      "birth_date": "2004-08-05",
+      "Position": "Midfielder",
+      "International": "Spain",
+      "Team": "FC Barcelona",
+      "Poster": "https://img.a.transfermarkt.technology/portrait/header/646740-1682685701.jpg?lm=1"
+    },
+    {
+      "no": "9",
+      "name": "Robert Lewandowski",
+      "birth_date": "1988-08-21",
+      "Position": "Forward",
+      "International": "Poland",
+      "Team": "FC Barcelona",
+      "Poster": "https://img.a.transfermarkt.technology/portrait/header/38253-1701118759.jpg?lm=1"
+    },
+    {
+      "no": "10",
+      "name": "Lamine Yamal",
+      "birth_date": "2007-07-13",
+      "Position": "Forward",
+      "International": "Spain",
+      "Team": "FC Barcelona",
+      "Poster": "https://img.a.transfermarkt.technology/portrait/header/937958-1746563945.jpg?lm=1"
+    }
+  ]
+}
